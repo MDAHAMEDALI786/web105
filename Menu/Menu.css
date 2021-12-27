@@ -1,0 +1,18 @@
+.menu-Items{
+    text-align: right;
+    background: black;
+    line-height: 30px;
+
+}
+
+.menu-Items >a {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 15px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.mb-50{
+    margin-bottom:50px
+}
