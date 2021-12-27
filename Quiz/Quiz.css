@@ -1,0 +1,11 @@
+.ml-10{
+    margin-left: 10px;
+}
+
+.time-left{
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
